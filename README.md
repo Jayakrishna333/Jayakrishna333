@@ -48,10 +48,11 @@ I build **scalable backend APIs**, **payment platforms**, and **automation tools
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=🎮%20Retro%20Mode&fontSize=20&fontAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=👋%20Welcome&fontSize=20&fontAlignY=60" />
 
 <div align="center">
-  <img src="https://i.imgur.com/8bYQZ8y.gif" width="520" alt="Retro space shooter" />
+  <img src="./assets/welcome-michael-scott.gif" width="480" alt="Welcome to my GitHub" />
+  <p><em>Welcome to my GitHub 👋</em></p>
 </div>
 
 ---
@@ -60,8 +61,9 @@ I build **scalable backend APIs**, **payment platforms**, and **automation tools
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jayakrishna333&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayakrishna333&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
+<img src="https://github-readme-stats.vercel.app/api?username=Jayakrishna333&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayakrishna333&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="Top Languages" />
 
 </div>
 
