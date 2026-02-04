@@ -57,16 +57,4 @@ I build **scalable backend APIs**, **payment platforms**, and **automation tools
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=📊%20GitHub%20Stats&fontSize=20&fontAlignY=60" />
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jayakrishna333&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayakrishna333&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="Top Languages" />
-
-</div>
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" />
