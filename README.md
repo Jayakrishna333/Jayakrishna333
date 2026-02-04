@@ -8,6 +8,8 @@
 
 </div>
 
+<div align="center">
+
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=🚀%20About%20Me&fontSize=20&fontAlignY=60" />
@@ -23,8 +25,6 @@ I build **scalable backend APIs**, **payment platforms**, and **automation tools
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=🛠️%20Tech%20Stack&fontSize=20&fontAlignY=60" />
-
-<div align="center">
 
 ### Backend & APIs
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -44,17 +44,15 @@ I build **scalable backend APIs**, **payment platforms**, and **automation tools
 ### AI / ML (Exploring)
 ![AI](https://img.shields.io/badge/AI%2FML-Exploring-purple?style=for-the-badge)
 
-</div>
-
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=👋%20Welcome&fontSize=20&fontAlignY=60" />
 
-<div align="center">
-  <img src="./assets/welcome-michael-scott.gif" width="480" alt="Welcome to my GitHub" />
-  <p><em>Welcome to my GitHub 👋</em></p>
-</div>
+<img src="./assets/welcome-michael-scott.gif" width="480" alt="Welcome to my GitHub" />
+<p><em>Welcome to my GitHub 👋</em></p>
 
 ---
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" />
