@@ -4,7 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Engineer;FinTech+%26+Healthcare+Systems;FastAPI+%7C+PostgreSQL+%7C+AWS;ISO+20022+Payments;Exploring+AI%2FML;Gaming+%F0%9F%8E%AE+%7C+Anime+%F0%9F%8D%A5)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Jayakrishna333&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 </div>
 
@@ -18,11 +18,13 @@ I build **scalable backend APIs**, **payment platforms**, and **automation tools
 - ⚙️ FastAPI • PostgreSQL • AWS • ISO 20022  
 - 🤖 Exploring AI / ML & intelligent systems  
 - 💳 Payments, messaging & data validation  
-- 🎮 Gaming | 🍥 Anime
+- 🎮 Gaming | 🍥 Anime  
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=🛠️%20Tech%20Stack&fontSize=20&fontAlignY=60" />
+
+<div align="center">
 
 ### Backend & APIs
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -42,12 +44,14 @@ I build **scalable backend APIs**, **payment platforms**, and **automation tools
 ### AI / ML (Exploring)
 ![AI](https://img.shields.io/badge/AI%2FML-Exploring-purple?style=for-the-badge)
 
+</div>
+
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=🎮%20Retro%20Mode&fontSize=20&fontAlignY=60" />
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="480" />
+  <img src="https://i.imgur.com/8bYQZ8y.gif" width="520" alt="Retro space shooter" />
 </div>
 
 ---
@@ -56,8 +60,8 @@ I build **scalable backend APIs**, **payment platforms**, and **automation tools
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jayakrishna333&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayakrishna333&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
 </div>
 
