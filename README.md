@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Jayakrishna%20Pavuluri&fontSize=32&fontAlignY=35" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Jayakrishna%20Pavuluri&fontSize=32&fontAlignY=35" />
+</div>
 
 <div align="center">
 
@@ -55,4 +57,6 @@ I build **scalable backend APIs**, **payment platforms**, and **automation tools
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" />
+</div>
